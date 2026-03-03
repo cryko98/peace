@@ -48,7 +48,7 @@ export default function App() {
               </button>
             </div>
             <a 
-              href="https://t.me/BirdOfPeaceSol" 
+              href="https://t.me/pigeonofpeace0" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-2 bg-sky-500 text-white rounded-full hover:bg-sky-600 transition-all hover:scale-110"
@@ -93,7 +93,7 @@ export default function App() {
                   </button>
                 </div>
               </div>
-              <a href="https://t.me/BirdOfPeaceSol" className="flex items-center gap-3 text-lg font-medium">
+              <a href="https://t.me/pigeonofpeace0" className="flex items-center gap-3 text-lg font-medium">
                 <Send className="text-sky-500" /> Telegram
               </a>
               <a href="https://pump.fun" className="w-full py-4 bg-slate-900 text-white rounded-2xl text-center font-bold text-lg">
@@ -302,7 +302,7 @@ export default function App() {
                 Buy $PEON Now
               </a>
               <a 
-                href="https://t.me/BirdOfPeaceSol" 
+                href="https://t.me/pigeonofpeace0" 
                 className="w-full sm:w-auto px-12 py-5 bg-sky-500 text-white rounded-full font-bold text-xl hover:bg-sky-600 transition-all flex items-center justify-center gap-3"
               >
                 <Send /> Telegram
@@ -331,7 +331,7 @@ export default function App() {
           
           <div className="flex items-center gap-6">
             <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors">Twitter</a>
-            <a href="https://t.me/BirdOfPeaceSol" className="text-slate-400 hover:text-slate-900 transition-colors">Telegram</a>
+            <a href="https://t.me/pigeonofpeace0" className="text-slate-400 hover:text-slate-900 transition-colors">Telegram</a>
             <a href="https://pump.fun" className="text-slate-400 hover:text-slate-900 transition-colors">Pump.fun</a>
           </div>
         </div>
