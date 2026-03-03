@@ -32,8 +32,8 @@ export default function App() {
               className="w-10 h-10 rounded-full border-2 border-white shadow-sm"
               referrerPolicy="no-referrer"
             />
-            <span className="font-bold text-xl tracking-tight hidden sm:block">Bird of Peace</span>
-            <span className="font-bold text-xl tracking-tight sm:hidden">$BOP</span>
+            <span className="font-bold text-xl tracking-tight hidden sm:block">Pigeon of Peace</span>
+            <span className="font-bold text-xl tracking-tight sm:hidden">$PEON</span>
           </div>
 
           <div className="hidden md:flex items-center gap-6">
@@ -61,7 +61,7 @@ export default function App() {
               rel="noopener noreferrer"
               className="px-5 py-2 bg-slate-900 text-white rounded-full text-sm font-semibold hover:bg-slate-800 transition-all"
             >
-              Buy $BOP
+              Buy $PEON
             </a>
           </div>
 
@@ -124,12 +124,12 @@ export default function App() {
               <div className="absolute inset-0 bg-white/50 blur-2xl rounded-full -z-10" />
               <img 
                 src={LOGO_URL} 
-                alt="Bird of Peace" 
+                alt="Pigeon of Peace" 
                 className="w-48 h-48 md:w-64 md:h-64 rounded-full border-8 border-white shadow-2xl animate-float"
                 referrerPolicy="no-referrer"
               />
               <div className="absolute -bottom-4 -right-4 bg-white px-4 py-2 rounded-2xl shadow-lg border border-slate-100">
-                <span className="text-2xl font-bold text-slate-900">$BOP</span>
+                <span className="text-2xl font-bold text-slate-900">$PEON</span>
               </div>
             </motion.div>
 
@@ -139,7 +139,7 @@ export default function App() {
               transition={{ delay: 0.2 }}
               className="text-5xl md:text-8xl font-black tracking-tighter text-slate-900 mb-6"
             >
-              BIRD OF <span className="text-sky-500">PEACE</span>
+              PIGEON OF <span className="text-sky-500">PEACE</span>
             </motion.h1>
             
             <motion.p 
@@ -211,7 +211,7 @@ export default function App() {
             >
               <h2 className="text-4xl md:text-5xl font-black text-slate-900 mb-8 leading-tight">
                 Why the World Needs <br/>
-                <span className="text-sky-500">Bird of Peace</span>
+                <span className="text-sky-500">Pigeon of Peace</span>
               </h2>
               <div className="space-y-6 text-lg text-slate-600 leading-relaxed max-w-3xl mx-auto">
                 <p>
@@ -219,12 +219,12 @@ export default function App() {
                   Amidst the noise of conflict and the shadows of war, a new symbol has emerged from the digital ether.
                 </p>
                 <p>
-                  The <strong>Bird of Peace ($BOP)</strong> is not just another memecoin. It is a movement. 
+                  The <strong>Pigeon of Peace ($PEON)</strong> is not just another memecoin. It is a movement. 
                   Represented by the majestic white pigeon showing the universal "V" sign with its foot, 
                   it reminds us that even in the most turbulent times, peace is a choice we can make together.
                 </p>
                 <p>
-                  Launched on <strong>pump.fun</strong>, $BOP aims to build a community where harmony and prosperity go hand in hand. 
+                  Launched on <strong>pump.fun</strong>, $PEON aims to build a community where harmony and prosperity go hand in hand. 
                   We don't just want to moon; we want to bring the light of peace to every wallet on Solana.
                 </p>
               </div>
@@ -291,7 +291,7 @@ export default function App() {
             <h2 className="text-4xl md:text-6xl font-black mb-8 relative z-10">Ready to spread <br/> the peace?</h2>
             <p className="text-slate-400 text-lg md:text-xl max-w-2xl mx-auto mb-12 relative z-10">
               Join thousands of others who believe that 2026 can be the year of harmony. 
-              Get your $BOP today on pump.fun.
+              Get your $PEON today on pump.fun.
             </p>
             
             <div className="flex flex-col sm:flex-row items-center justify-center gap-6 relative z-10">
@@ -299,7 +299,7 @@ export default function App() {
                 href="https://pump.fun" 
                 className="w-full sm:w-auto px-12 py-5 bg-white text-slate-900 rounded-full font-bold text-xl hover:bg-slate-100 transition-all hover:scale-105"
               >
-                Buy $BOP Now
+                Buy $PEON Now
               </a>
               <a 
                 href="https://t.me/BirdOfPeaceSol" 
@@ -322,11 +322,11 @@ export default function App() {
               className="w-8 h-8 rounded-full"
               referrerPolicy="no-referrer"
             />
-            <span className="font-bold text-lg">Bird of Peace</span>
+            <span className="font-bold text-lg">Pigeon of Peace</span>
           </div>
           
           <p className="text-slate-400 text-sm">
-            © 2026 Bird of Peace. Built for harmony on Solana.
+            © 2026 Pigeon of Peace. Built for harmony on Solana.
           </p>
           
           <div className="flex items-center gap-6">
@@ -337,7 +337,7 @@ export default function App() {
         </div>
         <div className="max-w-6xl mx-auto mt-8 pt-8 border-t border-slate-50 text-center">
           <p className="text-[10px] text-slate-300 uppercase tracking-widest">
-            Disclaimer: $BOP is a memecoin for entertainment purposes only. No financial advice.
+            Disclaimer: $PEON is a memecoin for entertainment purposes only. No financial advice.
           </p>
         </div>
       </footer>
