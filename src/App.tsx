@@ -3,7 +3,7 @@ import { motion, useScroll, useTransform, AnimatePresence } from 'motion/react';
 import { Send, Copy, Check, Menu, X, ExternalLink, Bird, Heart, Globe, ShieldCheck } from 'lucide-react';
 
 const CA = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
-const LOGO_URL = "https://lcaryepoaiuzuppladzq.supabase.co/storage/v1/object/public/ccc/photo_2026-03-03_18-52-30.jpg";
+const LOGO_URL = "https://lcaryepoaiuzuppladzq.supabase.co/storage/v1/object/public/ccc/bop.jpg";
 const BANNER_URL = "https://lcaryepoaiuzuppladzq.supabase.co/storage/v1/object/public/ccc/banner%20-%202026-03-03T185504.314.png";
 
 export default function App() {
